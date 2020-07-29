@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'EUR____B';
+   font-display: swap;
+   src: url('EUR____B/font.woff');
+}
+@font-face {
+   font-family: 'EUR____O';
+   font-display: swap;
+   src: url('EUR____O/font.woff');
+}
+@font-face {
+   font-family: 'EUR_____';
+   font-display: swap;
+   src: url('EUR_____/font.woff');
+}
